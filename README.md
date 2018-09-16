@@ -1,5 +1,5 @@
 
-# Bestoonnnn
+# BestooN
 
 A simple Income and Expense system.
 
